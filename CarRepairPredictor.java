@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/* author: Nateram
+ * date: 01/19/2025
+ * Auto Repair Predictor
+ */
 
 //This class is to intialize the constructors and variables to calulate the car repair cost
 //as well as the problems with the car so that the program can use them
