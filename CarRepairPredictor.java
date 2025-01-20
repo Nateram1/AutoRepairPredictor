@@ -55,7 +55,7 @@ class Cities {
 
 
 //this class is responsible for organizing all of the common car issues and costs
-public class CarRepairPredictor {
+public class AutoRepairPredictor {
     private static carDiagnostic[] carDiagnostic = {
         new carDiagnostic("flat tire",40),
         new carDiagnostic("oil change",60),
