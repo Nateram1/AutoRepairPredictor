@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* author: Nateram
- * date: 01/19/2025
+ * date: 01/15/2025
  * Auto Repair Predictor
  */
 
